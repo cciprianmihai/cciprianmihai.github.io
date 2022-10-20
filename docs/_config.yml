@@ -30,8 +30,7 @@ linkedin_username: cceausescu
 github_username:  cciprianmihai
 
 # Build settings
-# theme: minima
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
